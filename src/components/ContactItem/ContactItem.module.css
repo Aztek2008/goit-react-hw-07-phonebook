@@ -1,0 +1,33 @@
+.ContactItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  width: 90%;
+  margin-bottom: 5px;
+  border-radius: 10px;
+
+  box-shadow: var(--main-shadow);
+}
+
+.ContactItem > button {
+  margin: 0;
+}
+
+.Button {
+  margin: 20px 0 0;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid #303030;
+  outline: none;
+  margin-left: 20px;
+  cursor: pointer;
+
+  box-shadow: var(--main-shadow);
+}
+
+.Button:hover {
+  background-color: #303030;
+  color: #fff;
+}
