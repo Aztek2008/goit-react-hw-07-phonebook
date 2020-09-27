@@ -6,7 +6,7 @@ import contactsSelectors from "../../redux/contacts/contactsSelectors";
 
 // import PropTypes from "prop-types";
 
-import Notification from "../Notification/Notification";
+import Notification from "../Notification";
 import contactsOperations from "../../redux/contacts/contactsOperations";
 
 import s from "./ContactForm.module.css";

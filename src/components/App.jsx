@@ -3,10 +3,10 @@ import { connect } from "react-redux";
 import contactsOperations from "../redux/contacts/contactsOperations";
 import contactsSelectors from "../redux/contacts/contactsSelectors";
 
-import ContactForm from "./ContactForm/ContactForm";
-import ContactList from "./ContactList/ContactList";
-import Section from "./Section/Section";
-import Filter from "./Filter/Filter";
+import ContactForm from "./ContactForm";
+import ContactList from "./ContactList";
+import Section from "./Section";
+import Filter from "./Filter";
 
 class App extends Component {
   componentDidMount() {

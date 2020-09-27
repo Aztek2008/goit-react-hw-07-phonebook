@@ -2,13 +2,13 @@
   "contacts": [
     {
       "name": "Lara Tyulpanova",
-      "number": "(067) 500-1246",
+      "number": "(345) 567-8899",
       "id": 1
     },
     {
       "name": "Hovard Joel",
-      "number": "(345) 567-8899",
-      "id": 3
+      "number": "(067) 500-1246",
+      "id": 2
     }
   ]
 }

@@ -5,7 +5,7 @@ import contactsSelectors from "../../redux/contacts/contactsSelectors";
 
 // import PropTypes from "prop-types";
 
-import ContactItem from "../ContactItem/ContactItem";
+import ContactItem from "../ContactItem";
 
 import AppearStyles from "./AppearStyles.module.css";
 import s from "./ContactList.module.css";
